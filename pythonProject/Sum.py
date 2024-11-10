@@ -1,4 +1,5 @@
 Number1= input()
 Number2= input()
-NumberSumm = int(Number1)+int(Number2)
+Number3= input()
+NumberSumm = int(Number1)+int(Number2)+int(Number3)
 print(NumberSumm)
