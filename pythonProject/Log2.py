@@ -1,3 +1,3 @@
 import math
-Number= int(input())
+Number= int(input())*2
 print("Log value: ", math.log2(Number))
